@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = katja-deutschmann@outlook.com
+	name = Katja Deutschmann
